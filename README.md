@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dogoryeo@gmail.com)](mailto:dogoryeo@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dogoryeo@gmail.com)(mailto:dogoryeo@gmail.com)
 
 ![diebjackal's GitHub stats](https://github-readme-stats.vercel.app/api?username=diebjackal&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diebjackal&show_icons=true)
